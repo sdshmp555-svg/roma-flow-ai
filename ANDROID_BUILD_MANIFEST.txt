@@ -1,9 +1,0 @@
-package.json
-capacitor.config.json
-codemagic.yaml
-CODEMAGIC_ANDROID.md
-web/index.html
-web/runtime-config.js
-web/manifest.webmanifest
-web/static/icons/icon-192.png
-web/static/icons/icon-512.png
