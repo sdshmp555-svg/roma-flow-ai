@@ -5,6 +5,7 @@ workflows:
     instance_type: mac_mini_m2
     environment:
       node: 22.16.0
+      java: 21
       vars:
         API_BASE_URL: "demo"
     scripts:
