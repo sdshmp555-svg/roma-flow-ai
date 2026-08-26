@@ -1,0 +1,8 @@
+{
+  "appId": "com.romaflow.ai",
+  "appName": "ROMA FLOW AI",
+  "webDir": "web",
+  "server": {
+    "androidScheme": "https"
+  }
+}

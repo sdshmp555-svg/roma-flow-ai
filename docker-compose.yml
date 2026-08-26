@@ -1,0 +1,9 @@
+services:
+  roma-flow:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      ROMA_FLOW_DB: /app/data/roma_flow.db

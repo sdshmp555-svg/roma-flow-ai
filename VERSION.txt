@@ -1,0 +1,4 @@
+ROMA FLOW AI Pilot v1.2
+Android packaging target: Capacitor 8.5.0
+Cloud build target: Codemagic Android Debug APK
+Build package created: 2026-08-26
